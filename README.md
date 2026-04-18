@@ -4,3 +4,4 @@ Integrantes do Grupo:
 - Alessandro Felipe Ferreira FIlho
 - Felipe Cabral Liporage
 - José Enrique Viana de Oliveira
+- João Vitor Pereira Rodrigues
