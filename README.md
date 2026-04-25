@@ -1,7 +1,33 @@
-# Loja-Virtual---Jogos-e-Amigos
-Aplicativo de um loja virtual de jogos desenvolvida para o trabalho de Projeto de Software.
-Integrantes do Grupo: 
+# Atlantida Store
+Web app de uma loja virtual de jogos
+
+## Ferramentas utilizadas na implementação
+Ainda não definido
+
+---
+
+## Instruções de instalação
+Ainda não definidas 
+
+### Pré requisitos (caso hajam)
+ainda não definidos
+
+### Etapas de instalação
+Ainda não definidas
+
+---
+
+## Como contribuir
+Ainda não definido
+
+---
+
+## Contribuidores
 - Alessandro Felipe Ferreira FIlho
+- Allan Vignoli dos Santos
+- Caio Veiga
 - Felipe Cabral Liporage
 - José Enrique Viana de Oliveira
 - João Vitor Pereira Rodrigues
+
+---
