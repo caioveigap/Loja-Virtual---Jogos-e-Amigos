@@ -4,7 +4,7 @@ Web app de uma loja virtual de jogos
 ## Ferramentas utilizadas na implementação
 Ainda não definido
 
----
+
 
 ## Instruções de instalação
 Ainda não definidas 
@@ -15,12 +15,11 @@ ainda não definidos
 ### Etapas de instalação
 Ainda não definidas
 
----
+
 
 ## Como contribuir
 Ainda não definido
 
----
 
 ## Contribuidores
 - Alessandro Felipe Ferreira FIlho
