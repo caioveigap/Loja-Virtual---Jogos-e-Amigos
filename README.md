@@ -24,7 +24,7 @@ Ainda não definido
 ## Contribuidores
 - Alessandro Felipe Ferreira FIlho
 - Allan Vignoli dos Santos
-- Caio Veiga
+- Caio Veiga Pires
 - Felipe Cabral Liporage
 - José Enrique Viana de Oliveira
 - João Vitor Pereira Rodrigues
