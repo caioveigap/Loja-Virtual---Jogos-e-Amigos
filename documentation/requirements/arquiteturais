@@ -1,0 +1,42 @@
+RA.01 — Proteção de credenciais
+As senhas devem ser armazenadas com hash seguro e salt, nunca em texto puro.
+
+RA.02 — Criptografia em trânsito
+Toda comunicação entre cliente e servidor deve usar canais criptografados, como HTTPS/TLS.
+
+RA.03 — Armazenamento protegido de dados sensíveis
+Dados pessoais e informações de pagamento devem ser protegidos por mecanismos de controle de acesso e criptografia em repouso.
+
+RA.04 — Otimização de busca
+A arquitetura de dados deve empregar indexação e mecanismos de cache para suportar buscas rápidas por nome e categoria.
+
+RA.05 — Alta disponibilidade e recuperação
+A solução deve prever redundância, monitoramento e mecanismos de failover para sustentar disponibilidade elevada.
+
+RA.06 — Escalabilidade horizontal
+A arquitetura deve permitir crescimento por adição de recursos e/ou instâncias sem reestruturação completa do sistema.
+
+RA.07 — Processamento desacoplado de operações críticas
+Compras, downloads e publicações devem ser tratados por componentes ou fluxos desacoplados quando necessário, para reduzir latência e manter consistência.
+
+RA.08 — Persistência com garantias transacionais
+A persistência dos dados deve usar transações, restrições e validações no repositório para preservar a integridade.
+
+RA.09 — Interface responsiva
+A camada de apresentação deve ser desenvolvida com layout responsivo para diferentes tamanhos de tela.
+
+RA.10 — Evolução segura do sistema
+A arquitetura deve suportar versionamento, migrações controladas e compatibilidade com dados existentes durante atualizações.
+
+RA.11 — Estratégia de recuperação de dados
+O sistema deve possuir backups, restauração e, quando necessário, replicação para recuperação após falhas.
+
+RA.12 — Validação em múltiplas camadas
+As entradas do usuário devem ser validadas na interface, na aplicação e na persistência para reduzir erros e uso indevido.
+
+RA.13 — Privacidade por projeto
+A arquitetura deve incorporar mecanismos de consentimento, retenção mínima de dados e tratamento compatível com exigências legais.
+
+RA.14 - Integração com Gateways de Pagamento: A arquitetura deve possuir adaptadores para comunicação externa com APIs de Pix e Cartão, garantindo isolamento de falhas externas.
+
+RA.15 - Controle de Acesso Baseado em Funções (RBAC): O sistema deve distinguir estritamente as permissões entre Usuário Comum e Administrador em nível de middleware.

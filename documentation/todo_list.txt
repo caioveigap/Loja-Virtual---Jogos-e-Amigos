@@ -2,18 +2,18 @@ Documentos para entregar:
 
 1. [✅] Escopo
 2. [✅] Requisitos arquiteturais; restrições de arquitetura
-3. [] Padrões arquiteturais
-4. [] Decisões arquiteturais
+3. [✅] Padrões arquiteturais
+4. [✅] Decisões arquiteturais
 	- Justificar as decisões arquiteturais com  base nos atributos de qualidade do sistema
 	- Explicar como a arquitetura contribui para esses atributos
 5. Documentação das visões arquiteturais:
-	- [] Diagramas de casos de uso
-	- [] Modelo conceitual
-	- [] Diagrama de sequência (1 por membro)
-	- [] Diagrama com a visão geral da arquitetura do sistema, incluindo:
+	- [✅] Diagramas de casos de uso
+	- [✅] Modelo conceitual
+	- [✅] Diagrama de sequência (1 por membro)
+	- [✅] Diagrama com a visão geral da arquitetura do sistema, incluindo:
 		* estilos arquiteturais utilizados
 		* justificativas de uso
 	- [] Diagrama de interação (1 por membro):
 		* descrever o contrato da operação escolhida
 	- [] Diagramas de estado ou atividades, quando aplicável
-	- [] Diagrama de classes detalhado
+	- [✅] Diagrama de classes detalhado
